@@ -8,4 +8,4 @@ The approach centres on testable hypotheses, reproducible experiments and eviden
 
 **Build. Observe. Validate. Learn.**
 
-[amagri.it](https://www.amagri.it/) · [contact@amagri.it](mailto:contact@amagri.it)
+[amagri.it](https://www.amagri.it/)
