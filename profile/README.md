@@ -7,5 +7,3 @@ amagri.it brings together Antonio Magri’s work in cybersecurity, software engi
 The approach centres on testable hypotheses, reproducible experiments and evidence that can be examined. Automation supports technical work through explicit validation and human oversight.
 
 **Build. Observe. Validate. Learn.**
-
-[amagri.it](https://www.amagri.it/)
